@@ -1,2 +1,2 @@
 # traotora.github.io
- merhaba
+ Merhaba, şimdilik burası boş.
