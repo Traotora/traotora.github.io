@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Güzel Tasarım</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0;">
+
+    <header style="background-color: #333; color: #fff; text-align: center; padding: 20px 0;">
+        <h1>Hoş Geldiniz!</h1>
+    </header>
+    
+    <nav style="background-color: #f2f2f2; padding: 10px; text-align: center;">
+        <a href="#" style="text-decoration: none; color: #333; margin-right: 20px;">Anasayfa</a>
+        <a href="#" style="text-decoration: none; color: #333; margin-right: 20px;">Hakkında</a>
+        <a href="#" style="text-decoration: none; color: #333;">İletişim</a>
+    </nav>
+    
+    <main style="padding: 20px;">
+        <section style="margin-bottom: 20px;">
+            <h2>Biz Kimiz?</h2>
+            <p>Şirketinizin veya kişisel projenizin kısa bir tanımı buraya gelebilir.</p>
+        </section>
+        
+        <section style="margin-bottom: 20px;">
+            <h2>İletişim Bilgileri</h2>
+            <p>İletişim bilgileri burada yer alabilir.</p>
+        </section>
+    </main>
+    
+    <footer style="background-color: #333; color: #fff; text-align: center; padding: 10px 0; position: fixed; bottom: 0; width: 100%;">
+        <p>Telif Hakkı &copy; 2024. Tüm hakları saklıdır.</p>
+    </footer>
+
+</body>
+</html>
